@@ -1,5 +1,7 @@
 # suntodo
 
+终端版的todo list
+
 ### 安装：
 
 ```
