@@ -14,4 +14,4 @@ yarn global add suntodo
 
 ### 预览：
 
-![todo](./sun.png)
+![todo](./i.png)
