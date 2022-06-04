@@ -19,4 +19,5 @@ yarn global add suntodo
 ### 版本
 
     * v0.0.1 发布
-    * v0.0.2 更换了图片地址
+    * v0.0.2 添加了README.mds
+    * v0.0.3 美化了下 README.md
