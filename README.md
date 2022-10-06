@@ -19,4 +19,4 @@ yarn global add suntodo
 ### 版本
 
     * v0.0.1 发布
-    * v0.0.2 添加了README.mds
+    * v0.0.2 添加了README.md
