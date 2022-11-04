@@ -30,5 +30,6 @@ yarn global add suntodo
     * v0.0.1 发布
     * v0.0.2 添加了README.md
     * 0.0.3 如何使用 suntodo 
+    * 0.0.4 把shebang 里的nodejs 改成 node 
     
 
