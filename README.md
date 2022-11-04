@@ -1,10 +1,16 @@
-# suntodo
-
-[中文](./README.md) | [English](./English.md)
+<h1 align="center">suntodo</h1>
+<div align="center">
+<p align="center">
+  <a href="./README.md">中文</a>｜
+  <a href="./English.md">英文</a>
+</p>
 
 终端版的todo list
+</div>
 
-### 安装：
+
+
+## 安装：
 
 ```
 npm install -g suntodo
