@@ -6,11 +6,13 @@
 </p>
 
 终端版的todo list
+
 </div>
 
 
 
 ## 安装：
+
 
 ```
 npm install -g suntodo
@@ -18,6 +20,10 @@ npm install -g suntodo
 or
 
 yarn global add suntodo
+
+or
+
+pnpm install -g suntodo
 ```
 
 ### 预览：
@@ -29,7 +35,7 @@ yarn global add suntodo
 
     * v0.0.1 发布
     * v0.0.2 添加了README.md
-    * 0.0.3 如何使用 suntodo 
-    * 0.0.4 把shebang 里的nodejs 改成 node 
+    * v0.0.3 如何使用 suntodo 
+    * v0.0.4 把shebang 里的nodejs 改成 node 
     
 

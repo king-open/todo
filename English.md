@@ -1,11 +1,13 @@
-# suntodo
-
- [中文](./README.md) | [English](./English.md)
-
- Terminal version of todo list 
-
+<h1 align="center">suntodo</h1>
+<div align="center">
+<p align="center">
+  <a href="./README.md">Chinese</a>｜
+  <a href="./English.md">English</a>
+</p>
+Terminal version of the todo-list
+</div>
  ### install
-
+ 
 
 ```
 npm install -g suntodo
@@ -24,5 +26,6 @@ yarn global add suntodo
 * v0.0.1 release
 * v0.0.2 add README.md
 * v0.0.3 How to use suntodo
+* v0.0.4 Fixed a bug in cli.js
 
 
