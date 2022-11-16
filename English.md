@@ -6,15 +6,18 @@
 </p>
 Terminal version of the todo-list
 </div>
- ### install
- 
 
+ ### install 
 ```
 npm install -g suntodo
 
 or
 
 yarn global add suntodo
+
+or
+
+pnpm install -g suntodo
 ```
 
 ### preview
@@ -26,6 +29,6 @@ yarn global add suntodo
 * v0.0.1 release
 * v0.0.2 add README.md
 * v0.0.3 How to use suntodo
-* v0.0.4 Fixed a bug in cli.js
+* v0.0.4 Change shebang's node.js to node 
 
 
